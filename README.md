@@ -1,2 +1,2 @@
 # hello-worldie
-coding is fun
+coding is fun and full of great things
